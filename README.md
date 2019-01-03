@@ -6,7 +6,7 @@ A Magisk Module dedicated to the manipulation and analysis of SELinux
 
 ## Dependencies
   * Magisk v17.0+
-  * Android v4.3+ device
+  * Android v5.0+ device
   * SELinux Enabled Kernel
   
 ## Support & Discussions
