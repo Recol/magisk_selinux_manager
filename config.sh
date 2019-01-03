@@ -56,10 +56,10 @@ unity_custom() {
 print_modname() {
   ui_print " "
   ui_print "    *******************************************"
-  ui_print "    *         Magisk SELinux Manager          *"
+  ui_print "    *Magisk SELinux Manager*"
   ui_print "    *******************************************"
-  ui_print "    *  version : 1.0.5                        *"
-  ui_print "    *  author: jman420                        *"
+  ui_print "    *version : 1.0.5*"
+  ui_print "    *author: jman420"
   ui_print "    *******************************************"
   ui_print " "
 }
