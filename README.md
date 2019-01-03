@@ -5,7 +5,7 @@ A Magisk Module dedicated to the manipulation and analysis of SELinux
   * Set SELinux Mode (Enforcing or Permissive) at startup
 
 ## Dependencies
-  * Magisk v15.3+
+  * Magisk v17.0+
   * Android v4.3+ device
   * SELinux Enabled Kernel
   
